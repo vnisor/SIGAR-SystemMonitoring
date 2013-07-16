@@ -1,4 +1,4 @@
-package com.appiancorp.appianlabs.systemmonitor;
+package com.appiancorp.plugins.lab.systemmonitoring;
 
 import org.hyperic.sigar.CpuPerc;
 import org.hyperic.sigar.Sigar;
